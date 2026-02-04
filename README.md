@@ -58,7 +58,7 @@ You can find the complete implementation here:
 ## 👤 Author
 **Shiva Seth**  
 B.Tech – Mechatronics & Automation Engineering  
-IIIT Bhagalpur  
+IIIT Bhagalpur 
 
 🔗 GitHub: https://github.com/shiva123901  
 🔗 LinkedIn: https://www.linkedin.com/in/shiva-seth-824072312/
